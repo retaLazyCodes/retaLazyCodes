@@ -40,3 +40,4 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&for-the-badge&logo=mysql&logoColor=white)
 ![Postgre](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&for-the-badge&logo=postgresql&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&for-the-badge&logo=mongodb&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-%2343853D.svg?style=flat&for-the-badge&logo=swagger&logoColor=white)

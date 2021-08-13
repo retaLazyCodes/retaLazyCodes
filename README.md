@@ -7,9 +7,8 @@
 
   - 🔍 &nbsp; Exploring new web technologies.
   - 🎓 &nbsp; Studying Computer Science.
-  - 💼 &nbsp; I’m currently working on small Full Stack Development projects.
   - 🎯 &nbsp; Learning more about Backend and Frontend Developement.
-  - 🎉 &nbsp; My hobbies are anime, videogames and programming.
+
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸

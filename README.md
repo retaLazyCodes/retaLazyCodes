@@ -35,9 +35,9 @@
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&for-the-badge&logo=babel&logoColor=black")
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&for-the-badge&logo=notion&logoColor=white)
 
-![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&for-the-badge&logo=testing-library&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&for-the-badge&logo=mocha&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&for-the-badge&logo=jest&logoColor=white)
+![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&for-the-badge&logo=testing-library&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&for-the-badge&logo=mysql&logoColor=white)
-![Postgre](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&for-the-badge&logo=postgresql&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&for-the-badge&logo=mongodb&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-%2343853D.svg?style=flat&for-the-badge&logo=swagger&logoColor=white)

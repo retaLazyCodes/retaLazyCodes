@@ -23,6 +23,7 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&for-the-badge&logo=flask&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/.NET-5C2D91?style=flat&for-the-badge&logo=.net&logoColor=white"/>)
 
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&for-the-badge&logo=mocha&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&for-the-badge&logo=jest&logoColor=white)

@@ -21,7 +21,6 @@
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&for-the-badge&logo=Electron&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&for-the-badge&logo=flask&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/.NET-5C2D91?style=flat&for-the-badge&logo=.net&logoColor=white"/>)
 

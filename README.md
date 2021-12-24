@@ -17,7 +17,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&for-the-badge&logo=redux&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&for-the-badge&logo=Electron&logoColor=white)
@@ -27,7 +26,6 @@
 
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&for-the-badge&logo=mocha&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&for-the-badge&logo=jest&logoColor=white)
-![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&for-the-badge&logo=testing-library&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&for-the-badge&logo=mysql&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&for-the-badge&logo=mongodb&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-%2343853D.svg?style=flat&for-the-badge&logo=swagger&logoColor=white)
@@ -36,4 +34,3 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&for-the-badge&logo=heroku&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&for-the-badge&logo=postman&logoColor=red)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&for-the-badge&logo=babel&logoColor=black")
